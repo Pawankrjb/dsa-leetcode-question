@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0001-two-sum) |
+| [1539-kth-missing-positive-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0100-same-tree) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
