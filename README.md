@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -33,5 +34,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1539-kth-missing-positive-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/1539-kth-missing-positive-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
