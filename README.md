@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/1539-kth-missing-positive-number) |
@@ -45,4 +46,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
