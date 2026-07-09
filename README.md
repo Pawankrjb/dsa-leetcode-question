@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Tree
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0268-missing-number) |
 | [1539-kth-missing-positive-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
@@ -51,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
