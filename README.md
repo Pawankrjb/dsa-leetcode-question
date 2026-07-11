@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Tree
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
