@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0746-min-cost-climbing-stairs) |
 | [1539-kth-missing-positive-number](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pawankrjb/dsa-leetcode-question/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
